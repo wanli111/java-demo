@@ -1,0 +1,2 @@
+module Con_Mysql {
+}
